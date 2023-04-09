@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+#box{
+    height: 300px;
+    width: 900px;
+    margin:50px auto;
+}
+.a{
+height: 250px;
+width: 250px;
+float: left;
+background: white;
+margin: 25px;
+border:20px solid red;
+box-sizing: border-box;
+border-radius: 10px;
+box-shadow: 0px 0px 20px 20px black inset;
+font-size: 80px;
+text-align: center;
+line-height: 240px;
+color: red;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900;
+}
